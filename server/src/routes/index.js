@@ -14,9 +14,3 @@ router.use("/auth", authRoutes);
 router.use("/approvals", approvalRoutes);
 router.use("/rules", ruleRoutes);
 module.exports = router;
-
-
-
-
-
-
